@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+EMD-signal
+jupyterlab
+ipykernel

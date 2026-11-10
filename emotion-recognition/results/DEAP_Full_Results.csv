@@ -1,0 +1,763 @@
+Subject,Dimension,Classifier,Accuracy,CM
+s01.dat,Valence,Linear_SVM,0.50625,"[[136 116]
+ [121 107]]"
+s01.dat,Valence,RBF_SVM,0.475,"[[145 107]
+ [145  83]]"
+s01.dat,Valence,RandomForest,0.45,"[[124 128]
+ [136  92]]"
+s01.dat,Arousal,Linear_SVM,0.6208333333333333,"[[ 90 102]
+ [ 80 208]]"
+s01.dat,Arousal,RBF_SVM,0.5979166666666667,"[[ 63 129]
+ [ 64 224]]"
+s01.dat,Arousal,RandomForest,0.6333333333333333,"[[ 84 108]
+ [ 68 220]]"
+s01.dat,Dominance,Linear_SVM,0.51875,"[[ 17 151]
+ [ 80 232]]"
+s01.dat,Dominance,RBF_SVM,0.59375,"[[  8 160]
+ [ 35 277]]"
+s01.dat,Dominance,RandomForest,0.5416666666666666,"[[ 27 141]
+ [ 79 233]]"
+s01.dat,Liking,Linear_SVM,0.9416666666666667,"[[  0  24]
+ [  4 452]]"
+s01.dat,Liking,RBF_SVM,0.95,"[[  0  24]
+ [  0 456]]"
+s01.dat,Liking,RandomForest,0.95,"[[  0  24]
+ [  0 456]]"
+s02.dat,Valence,Linear_SVM,0.5854166666666667,"[[ 62 118]
+ [ 81 219]]"
+s02.dat,Valence,RBF_SVM,0.6125,"[[ 58 122]
+ [ 64 236]]"
+s02.dat,Valence,RandomForest,0.5708333333333333,"[[ 55 125]
+ [ 81 219]]"
+s02.dat,Arousal,Linear_SVM,0.5145833333333333,"[[ 60 132]
+ [101 187]]"
+s02.dat,Arousal,RBF_SVM,0.5270833333333333,"[[ 61 131]
+ [ 96 192]]"
+s02.dat,Arousal,RandomForest,0.5520833333333334,"[[ 75 117]
+ [ 98 190]]"
+s02.dat,Dominance,Linear_SVM,0.6583333333333333,"[[ 61  95]
+ [ 69 255]]"
+s02.dat,Dominance,RBF_SVM,0.6979166666666666,"[[ 61  95]
+ [ 50 274]]"
+s02.dat,Dominance,RandomForest,0.7,"[[ 61  95]
+ [ 49 275]]"
+s02.dat,Liking,Linear_SVM,0.7145833333333333,"[[ 64  80]
+ [ 57 279]]"
+s02.dat,Liking,RBF_SVM,0.7,"[[ 43 101]
+ [ 43 293]]"
+s02.dat,Liking,RandomForest,0.69375,"[[ 46  98]
+ [ 49 287]]"
+s03.dat,Valence,Linear_SVM,0.5791666666666667,"[[111 105]
+ [ 97 167]]"
+s03.dat,Valence,RBF_SVM,0.5854166666666667,"[[105 111]
+ [ 88 176]]"
+s03.dat,Valence,RandomForest,0.6291666666666667,"[[117  99]
+ [ 79 185]]"
+s03.dat,Arousal,Linear_SVM,0.8,"[[376   8]
+ [ 88   8]]"
+s03.dat,Arousal,RBF_SVM,0.7979166666666667,"[[383   1]
+ [ 96   0]]"
+s03.dat,Arousal,RandomForest,0.775,"[[364  20]
+ [ 88   8]]"
+s03.dat,Dominance,Linear_SVM,0.5125,"[[183  81]
+ [153  63]]"
+s03.dat,Dominance,RBF_SVM,0.5229166666666667,"[[196  68]
+ [161  55]]"
+s03.dat,Dominance,RandomForest,0.56875,"[[194  70]
+ [137  79]]"
+s03.dat,Liking,Linear_SVM,0.8291666666666667,"[[  3  69]
+ [ 13 395]]"
+s03.dat,Liking,RBF_SVM,0.8520833333333333,"[[  2  70]
+ [  1 407]]"
+s03.dat,Liking,RandomForest,0.8541666666666666,"[[ 15  57]
+ [ 13 395]]"
+s04.dat,Valence,Linear_SVM,0.5604166666666667,"[[189  99]
+ [112  80]]"
+s04.dat,Valence,RBF_SVM,0.5604166666666667,"[[215  73]
+ [138  54]]"
+s04.dat,Valence,RandomForest,0.5833333333333334,"[[197  91]
+ [109  83]]"
+s04.dat,Arousal,Linear_SVM,0.5979166666666667,"[[190  98]
+ [ 95  97]]"
+s04.dat,Arousal,RBF_SVM,0.5875,"[[214  74]
+ [124  68]]"
+s04.dat,Arousal,RandomForest,0.6166666666666667,"[[205  83]
+ [101  91]]"
+s04.dat,Dominance,Linear_SVM,0.675,"[[324  12]
+ [144   0]]"
+s04.dat,Dominance,RBF_SVM,0.7,"[[336   0]
+ [144   0]]"
+s04.dat,Dominance,RandomForest,0.6708333333333333,"[[284  52]
+ [106  38]]"
+s04.dat,Liking,Linear_SVM,0.59375,"[[ 90 138]
+ [ 57 195]]"
+s04.dat,Liking,RBF_SVM,0.6083333333333333,"[[ 93 135]
+ [ 53 199]]"
+s04.dat,Liking,RandomForest,0.61875,"[[121 107]
+ [ 76 176]]"
+s05.dat,Valence,Linear_SVM,0.5666666666666667,"[[ 70 122]
+ [ 86 202]]"
+s05.dat,Valence,RBF_SVM,0.54375,"[[ 46 146]
+ [ 73 215]]"
+s05.dat,Valence,RandomForest,0.6104166666666667,"[[ 84 108]
+ [ 79 209]]"
+s05.dat,Arousal,Linear_SVM,0.45,"[[157  95]
+ [169  59]]"
+s05.dat,Arousal,RBF_SVM,0.4270833333333333,"[[166  86]
+ [189  39]]"
+s05.dat,Arousal,RandomForest,0.4979166666666667,"[[167  85]
+ [156  72]]"
+s05.dat,Dominance,Linear_SVM,0.5208333333333334,"[[170 106]
+ [124  80]]"
+s05.dat,Dominance,RBF_SVM,0.5541666666666667,"[[197  79]
+ [135  69]]"
+s05.dat,Dominance,RandomForest,0.5770833333333333,"[[199  77]
+ [126  78]]"
+s05.dat,Liking,Linear_SVM,0.5458333333333333,"[[ 33 159]
+ [ 59 229]]"
+s05.dat,Liking,RBF_SVM,0.5625,"[[ 23 169]
+ [ 41 247]]"
+s05.dat,Liking,RandomForest,0.5729166666666666,"[[ 63 129]
+ [ 76 212]]"
+s06.dat,Valence,Linear_SVM,0.7020833333333333,"[[  1 119]
+ [ 24 336]]"
+s06.dat,Valence,RBF_SVM,0.71875,"[[  0 120]
+ [ 15 345]]"
+s06.dat,Valence,RandomForest,0.6895833333333333,"[[  7 113]
+ [ 36 324]]"
+s06.dat,Arousal,Linear_SVM,0.4895833333333333,"[[181  95]
+ [150  54]]"
+s06.dat,Arousal,RBF_SVM,0.5604166666666667,"[[214  62]
+ [149  55]]"
+s06.dat,Arousal,RandomForest,0.5625,"[[194  82]
+ [128  76]]"
+s06.dat,Dominance,Linear_SVM,0.5333333333333333,"[[ 56 124]
+ [100 200]]"
+s06.dat,Dominance,RBF_SVM,0.5729166666666666,"[[ 53 127]
+ [ 78 222]]"
+s06.dat,Dominance,RandomForest,0.5666666666666667,"[[ 64 116]
+ [ 92 208]]"
+s06.dat,Liking,Linear_SVM,0.6666666666666666,"[[ 28 116]
+ [ 44 292]]"
+s06.dat,Liking,RBF_SVM,0.6791666666666667,"[[  5 139]
+ [ 15 321]]"
+s06.dat,Liking,RandomForest,0.6458333333333334,"[[ 22 122]
+ [ 48 288]]"
+s07.dat,Valence,Linear_SVM,0.5729166666666666,"[[ 26 118]
+ [ 87 249]]"
+s07.dat,Valence,RBF_SVM,0.6354166666666666,"[[ 15 129]
+ [ 46 290]]"
+s07.dat,Valence,RandomForest,0.6625,"[[ 42 102]
+ [ 60 276]]"
+s07.dat,Arousal,Linear_SVM,0.575,"[[ 53 127]
+ [ 77 223]]"
+s07.dat,Arousal,RBF_SVM,0.5333333333333333,"[[ 23 157]
+ [ 67 233]]"
+s07.dat,Arousal,RandomForest,0.5020833333333333,"[[ 40 140]
+ [ 99 201]]"
+s07.dat,Dominance,Linear_SVM,0.5583333333333333,"[[115 113]
+ [ 99 153]]"
+s07.dat,Dominance,RBF_SVM,0.5458333333333333,"[[106 122]
+ [ 96 156]]"
+s07.dat,Dominance,RandomForest,0.5604166666666667,"[[116 112]
+ [ 99 153]]"
+s07.dat,Liking,Linear_SVM,0.9,"[[  8  28]
+ [ 20 424]]"
+s07.dat,Liking,RBF_SVM,0.925,"[[  0  36]
+ [  0 444]]"
+s07.dat,Liking,RandomForest,0.925,"[[  2  34]
+ [  2 442]]"
+s08.dat,Valence,Linear_SVM,0.5229166666666667,"[[ 68 148]
+ [ 81 183]]"
+s08.dat,Valence,RBF_SVM,0.5270833333333333,"[[ 72 144]
+ [ 83 181]]"
+s08.dat,Valence,RandomForest,0.4895833333333333,"[[ 72 144]
+ [101 163]]"
+s08.dat,Arousal,Linear_SVM,0.5645833333333333,"[[ 44 148]
+ [ 61 227]]"
+s08.dat,Arousal,RBF_SVM,0.5541666666666667,"[[  5 187]
+ [ 27 261]]"
+s08.dat,Arousal,RandomForest,0.6104166666666667,"[[ 79 113]
+ [ 74 214]]"
+s08.dat,Dominance,Linear_SVM,0.63125,"[[ 21 135]
+ [ 42 282]]"
+s08.dat,Dominance,RBF_SVM,0.6729166666666667,"[[  2 154]
+ [  3 321]]"
+s08.dat,Dominance,RandomForest,0.6458333333333334,"[[ 23 133]
+ [ 37 287]]"
+s08.dat,Liking,Linear_SVM,0.84375,"[[  0  72]
+ [  3 405]]"
+s08.dat,Liking,RBF_SVM,0.85,"[[  0  72]
+ [  0 408]]"
+s08.dat,Liking,RandomForest,0.8520833333333333,"[[  3  69]
+ [  2 406]]"
+s09.dat,Valence,Linear_SVM,0.6520833333333333,"[[154  74]
+ [ 93 159]]"
+s09.dat,Valence,RBF_SVM,0.6604166666666667,"[[141  87]
+ [ 76 176]]"
+s09.dat,Valence,RandomForest,0.65625,"[[142  86]
+ [ 79 173]]"
+s09.dat,Arousal,Linear_SVM,0.5479166666666667,"[[ 57 123]
+ [ 94 206]]"
+s09.dat,Arousal,RBF_SVM,0.5895833333333333,"[[ 34 146]
+ [ 51 249]]"
+s09.dat,Arousal,RandomForest,0.6208333333333333,"[[ 63 117]
+ [ 65 235]]"
+s09.dat,Dominance,Linear_SVM,0.6354166666666666,"[[237  63]
+ [112  68]]"
+s09.dat,Dominance,RBF_SVM,0.6708333333333333,"[[257  43]
+ [115  65]]"
+s09.dat,Dominance,RandomForest,0.6479166666666667,"[[238  62]
+ [107  73]]"
+s09.dat,Liking,Linear_SVM,0.6958333333333333,"[[  3 117]
+ [ 29 331]]"
+s09.dat,Liking,RBF_SVM,0.7125,"[[  2 118]
+ [ 20 340]]"
+s09.dat,Liking,RandomForest,0.6645833333333333,"[[ 10 110]
+ [ 51 309]]"
+s10.dat,Valence,Linear_SVM,0.70625,"[[209  31]
+ [110 130]]"
+s10.dat,Valence,RBF_SVM,0.6895833333333333,"[[212  28]
+ [121 119]]"
+s10.dat,Valence,RandomForest,0.725,"[[174  66]
+ [ 66 174]]"
+s10.dat,Arousal,Linear_SVM,0.6104166666666667,"[[114 102]
+ [ 85 179]]"
+s10.dat,Arousal,RBF_SVM,0.575,"[[ 66 150]
+ [ 54 210]]"
+s10.dat,Arousal,RandomForest,0.625,"[[116 100]
+ [ 80 184]]"
+s10.dat,Dominance,Linear_SVM,0.5375,"[[ 66 138]
+ [ 84 192]]"
+s10.dat,Dominance,RBF_SVM,0.5416666666666666,"[[  8 196]
+ [ 24 252]]"
+s10.dat,Dominance,RandomForest,0.51875,"[[ 71 133]
+ [ 98 178]]"
+s10.dat,Liking,Linear_SVM,0.7208333333333333,"[[  0 132]
+ [  2 346]]"
+s10.dat,Liking,RBF_SVM,0.725,"[[  0 132]
+ [  0 348]]"
+s10.dat,Liking,RandomForest,0.7520833333333333,"[[ 39  93]
+ [ 26 322]]"
+s11.dat,Valence,Linear_SVM,0.575,"[[ 76 116]
+ [ 88 200]]"
+s11.dat,Valence,RBF_SVM,0.5458333333333333,"[[ 45 147]
+ [ 71 217]]"
+s11.dat,Valence,RandomForest,0.5145833333333333,"[[ 63 129]
+ [104 184]]"
+s11.dat,Arousal,Linear_SVM,0.6270833333333333,"[[229  71]
+ [108  72]]"
+s11.dat,Arousal,RBF_SVM,0.6770833333333334,"[[252  48]
+ [107  73]]"
+s11.dat,Arousal,RandomForest,0.7041666666666667,"[[243  57]
+ [ 85  95]]"
+s11.dat,Dominance,Linear_SVM,0.6270833333333333,"[[ 40 116]
+ [ 63 261]]"
+s11.dat,Dominance,RBF_SVM,0.5875,"[[ 15 141]
+ [ 57 267]]"
+s11.dat,Dominance,RandomForest,0.5833333333333334,"[[ 37 119]
+ [ 81 243]]"
+s11.dat,Liking,Linear_SVM,0.42916666666666664,"[[ 80 148]
+ [126 126]]"
+s11.dat,Liking,RBF_SVM,0.37916666666666665,"[[ 70 158]
+ [140 112]]"
+s11.dat,Liking,RandomForest,0.38958333333333334,"[[ 81 147]
+ [146 106]]"
+s12.dat,Valence,Linear_SVM,0.60625,"[[130  98]
+ [ 91 161]]"
+s12.dat,Valence,RBF_SVM,0.6270833333333333,"[[159  69]
+ [110 142]]"
+s12.dat,Valence,RandomForest,0.6375,"[[155  73]
+ [101 151]]"
+s12.dat,Arousal,Linear_SVM,0.8041666666666667,"[[  1  83]
+ [ 11 385]]"
+s12.dat,Arousal,RBF_SVM,0.825,"[[  0  84]
+ [  0 396]]"
+s12.dat,Arousal,RandomForest,0.8104166666666667,"[[  1  83]
+ [  8 388]]"
+s12.dat,Dominance,Linear_SVM,0.6125,"[[162  90]
+ [ 96 132]]"
+s12.dat,Dominance,RBF_SVM,0.59375,"[[173  79]
+ [116 112]]"
+s12.dat,Dominance,RandomForest,0.5979166666666667,"[[172  80]
+ [113 115]]"
+s12.dat,Liking,Linear_SVM,0.65,"[[ 82 110]
+ [ 58 230]]"
+s12.dat,Liking,RBF_SVM,0.6520833333333333,"[[ 81 111]
+ [ 56 232]]"
+s12.dat,Liking,RandomForest,0.6541666666666667,"[[ 92 100]
+ [ 66 222]]"
+s13.dat,Valence,Linear_SVM,0.7020833333333333,"[[215  49]
+ [ 94 122]]"
+s13.dat,Valence,RBF_SVM,0.7583333333333333,"[[252  12]
+ [104 112]]"
+s13.dat,Valence,RandomForest,0.7270833333333333,"[[224  40]
+ [ 91 125]]"
+s13.dat,Arousal,Linear_SVM,0.8520833333333333,"[[ 14  58]
+ [ 13 395]]"
+s13.dat,Arousal,RBF_SVM,0.85,"[[  0  72]
+ [  0 408]]"
+s13.dat,Arousal,RandomForest,0.8625,"[[ 12  60]
+ [  6 402]]"
+s13.dat,Dominance,Linear_SVM,0.50625,"[[ 91 137]
+ [100 152]]"
+s13.dat,Dominance,RBF_SVM,0.5208333333333334,"[[107 121]
+ [109 143]]"
+s13.dat,Dominance,RandomForest,0.47708333333333336,"[[ 98 130]
+ [121 131]]"
+s13.dat,Liking,Linear_SVM,0.5708333333333333,"[[ 38 118]
+ [ 88 236]]"
+s13.dat,Liking,RBF_SVM,0.5958333333333333,"[[ 25 131]
+ [ 63 261]]"
+s13.dat,Liking,RandomForest,0.6020833333333333,"[[ 43 113]
+ [ 78 246]]"
+s14.dat,Valence,Linear_SVM,0.70625,"[[191  49]
+ [ 92 148]]"
+s14.dat,Valence,RBF_SVM,0.7166666666666667,"[[200  40]
+ [ 96 144]]"
+s14.dat,Valence,RandomForest,0.6979166666666666,"[[177  63]
+ [ 82 158]]"
+s14.dat,Arousal,Linear_SVM,0.6583333333333333,"[[ 40 116]
+ [ 48 276]]"
+s14.dat,Arousal,RBF_SVM,0.6645833333333333,"[[ 19 137]
+ [ 24 300]]"
+s14.dat,Arousal,RandomForest,0.6729166666666667,"[[ 54 102]
+ [ 55 269]]"
+s14.dat,Dominance,Linear_SVM,0.6395833333333333,"[[168  60]
+ [113 139]]"
+s14.dat,Dominance,RBF_SVM,0.5854166666666667,"[[154  74]
+ [125 127]]"
+s14.dat,Dominance,RandomForest,0.56875,"[[132  96]
+ [111 141]]"
+s14.dat,Liking,Linear_SVM,0.6479166666666667,"[[  5 139]
+ [ 30 306]]"
+s14.dat,Liking,RBF_SVM,0.6354166666666666,"[[  1 143]
+ [ 32 304]]"
+s14.dat,Liking,RandomForest,0.64375,"[[ 23 121]
+ [ 50 286]]"
+s15.dat,Valence,Linear_SVM,0.6354166666666666,"[[159  81]
+ [ 94 146]]"
+s15.dat,Valence,RBF_SVM,0.6479166666666667,"[[171  69]
+ [100 140]]"
+s15.dat,Valence,RandomForest,0.6520833333333333,"[[156  84]
+ [ 83 157]]"
+s15.dat,Arousal,Linear_SVM,0.6166666666666667,"[[145  83]
+ [101 151]]"
+s15.dat,Arousal,RBF_SVM,0.5708333333333333,"[[153  75]
+ [131 121]]"
+s15.dat,Arousal,RandomForest,0.5958333333333333,"[[120 108]
+ [ 86 166]]"
+s15.dat,Dominance,Linear_SVM,0.6270833333333333,"[[146  82]
+ [ 97 155]]"
+s15.dat,Dominance,RBF_SVM,0.66875,"[[165  63]
+ [ 96 156]]"
+s15.dat,Dominance,RandomForest,0.6625,"[[143  85]
+ [ 77 175]]"
+s15.dat,Liking,Linear_SVM,0.7,"[[ 63  93]
+ [ 51 273]]"
+s15.dat,Liking,RBF_SVM,0.70625,"[[ 47 109]
+ [ 32 292]]"
+s15.dat,Liking,RandomForest,0.6708333333333333,"[[ 58  98]
+ [ 60 264]]"
+s16.dat,Valence,Linear_SVM,0.6604166666666667,"[[249  51]
+ [112  68]]"
+s16.dat,Valence,RBF_SVM,0.6645833333333333,"[[268  32]
+ [129  51]]"
+s16.dat,Valence,RandomForest,0.59375,"[[218  82]
+ [113  67]]"
+s16.dat,Arousal,Linear_SVM,0.6270833333333333,"[[168  72]
+ [107 133]]"
+s16.dat,Arousal,RBF_SVM,0.5916666666666667,"[[157  83]
+ [113 127]]"
+s16.dat,Arousal,RandomForest,0.6458333333333334,"[[152  88]
+ [ 82 158]]"
+s16.dat,Dominance,Linear_SVM,0.39375,"[[124 140]
+ [151  65]]"
+s16.dat,Dominance,RBF_SVM,0.40208333333333335,"[[146 118]
+ [169  47]]"
+s16.dat,Dominance,RandomForest,0.4354166666666667,"[[126 138]
+ [133  83]]"
+s16.dat,Liking,Linear_SVM,0.5583333333333333,"[[126 102]
+ [110 142]]"
+s16.dat,Liking,RBF_SVM,0.5520833333333334,"[[126 102]
+ [113 139]]"
+s16.dat,Liking,RandomForest,0.5645833333333333,"[[120 108]
+ [101 151]]"
+s17.dat,Valence,Linear_SVM,0.46875,"[[ 75 141]
+ [114 150]]"
+s17.dat,Valence,RBF_SVM,0.48333333333333334,"[[ 61 155]
+ [ 93 171]]"
+s17.dat,Valence,RandomForest,0.45,"[[ 78 138]
+ [126 138]]"
+s17.dat,Arousal,Linear_SVM,0.6354166666666666,"[[ 72 108]
+ [ 67 233]]"
+s17.dat,Arousal,RBF_SVM,0.6354166666666666,"[[ 60 120]
+ [ 55 245]]"
+s17.dat,Arousal,RandomForest,0.5729166666666666,"[[ 70 110]
+ [ 95 205]]"
+s17.dat,Dominance,Linear_SVM,0.8979166666666667,"[[  0  48]
+ [  1 431]]"
+s17.dat,Dominance,RBF_SVM,0.9,"[[  0  48]
+ [  0 432]]"
+s17.dat,Dominance,RandomForest,0.8833333333333333,"[[  0  48]
+ [  8 424]]"
+s17.dat,Liking,Linear_SVM,0.5375,"[[ 27 153]
+ [ 69 231]]"
+s17.dat,Liking,RBF_SVM,0.5979166666666667,"[[ 20 160]
+ [ 33 267]]"
+s17.dat,Liking,RandomForest,0.55625,"[[ 39 141]
+ [ 72 228]]"
+s18.dat,Valence,Linear_SVM,0.63125,"[[ 83  85]
+ [ 92 220]]"
+s18.dat,Valence,RBF_SVM,0.6354166666666666,"[[ 58 110]
+ [ 65 247]]"
+s18.dat,Valence,RandomForest,0.6458333333333334,"[[ 83  85]
+ [ 85 227]]"
+s18.dat,Arousal,Linear_SVM,0.5645833333333333,"[[ 24 156]
+ [ 53 247]]"
+s18.dat,Arousal,RBF_SVM,0.6041666666666666,"[[ 15 165]
+ [ 25 275]]"
+s18.dat,Arousal,RandomForest,0.575,"[[ 43 137]
+ [ 67 233]]"
+s18.dat,Dominance,Linear_SVM,0.85,"[[  0  72]
+ [  0 408]]"
+s18.dat,Dominance,RBF_SVM,0.85,"[[  0  72]
+ [  0 408]]"
+s18.dat,Dominance,RandomForest,0.8416666666666667,"[[ 17  55]
+ [ 21 387]]"
+s18.dat,Liking,Linear_SVM,0.6354166666666666,"[[123  81]
+ [ 94 182]]"
+s18.dat,Liking,RBF_SVM,0.6270833333333333,"[[123  81]
+ [ 98 178]]"
+s18.dat,Liking,RandomForest,0.6708333333333333,"[[119  85]
+ [ 73 203]]"
+s19.dat,Valence,Linear_SVM,0.5770833333333333,"[[103 101]
+ [102 174]]"
+s19.dat,Valence,RBF_SVM,0.6375,"[[ 92 112]
+ [ 62 214]]"
+s19.dat,Valence,RandomForest,0.6229166666666667,"[[100 104]
+ [ 77 199]]"
+s19.dat,Arousal,Linear_SVM,0.6333333333333333,"[[ 23 133]
+ [ 43 281]]"
+s19.dat,Arousal,RBF_SVM,0.6375,"[[  1 155]
+ [ 19 305]]"
+s19.dat,Arousal,RandomForest,0.6604166666666667,"[[ 40 116]
+ [ 47 277]]"
+s19.dat,Dominance,Linear_SVM,0.5770833333333333,"[[ 50 130]
+ [ 73 227]]"
+s19.dat,Dominance,RBF_SVM,0.5729166666666666,"[[ 16 164]
+ [ 41 259]]"
+s19.dat,Dominance,RandomForest,0.5604166666666667,"[[ 45 135]
+ [ 76 224]]"
+s19.dat,Liking,Linear_SVM,0.6229166666666667,"[[  1 155]
+ [ 26 298]]"
+s19.dat,Liking,RBF_SVM,0.6625,"[[  2 154]
+ [  8 316]]"
+s19.dat,Liking,RandomForest,0.66875,"[[ 42 114]
+ [ 45 279]]"
+s20.dat,Valence,Linear_SVM,0.6645833333333333,"[[136  68]
+ [ 93 183]]"
+s20.dat,Valence,RBF_SVM,0.69375,"[[141  63]
+ [ 84 192]]"
+s20.dat,Valence,RandomForest,0.6958333333333333,"[[145  59]
+ [ 87 189]]"
+s20.dat,Arousal,Linear_SVM,0.7708333333333334,"[[  0 108]
+ [  2 370]]"
+s20.dat,Arousal,RBF_SVM,0.775,"[[  0 108]
+ [  0 372]]"
+s20.dat,Arousal,RandomForest,0.7479166666666667,"[[ 14  94]
+ [ 27 345]]"
+s20.dat,Dominance,Linear_SVM,0.5958333333333333,"[[222  54]
+ [140  64]]"
+s20.dat,Dominance,RBF_SVM,0.6083333333333333,"[[236  40]
+ [148  56]]"
+s20.dat,Dominance,RandomForest,0.5666666666666667,"[[202  74]
+ [134  70]]"
+s20.dat,Liking,Linear_SVM,0.65625,"[[ 38  94]
+ [ 71 277]]"
+s20.dat,Liking,RBF_SVM,0.71875,"[[ 16 116]
+ [ 19 329]]"
+s20.dat,Liking,RandomForest,0.7270833333333333,"[[ 46  86]
+ [ 45 303]]"
+s21.dat,Valence,Linear_SVM,0.48125,"[[113 115]
+ [134 118]]"
+s21.dat,Valence,RBF_SVM,0.4354166666666667,"[[106 122]
+ [149 103]]"
+s21.dat,Valence,RandomForest,0.44583333333333336,"[[ 92 136]
+ [130 122]]"
+s21.dat,Arousal,Linear_SVM,0.7708333333333334,"[[  0  96]
+ [ 14 370]]"
+s21.dat,Arousal,RBF_SVM,0.7916666666666666,"[[  0  96]
+ [  4 380]]"
+s21.dat,Arousal,RandomForest,0.7541666666666667,"[[  2  94]
+ [ 24 360]]"
+s21.dat,Dominance,Linear_SVM,0.5333333333333333,"[[ 68 124]
+ [100 188]]"
+s21.dat,Dominance,RBF_SVM,0.5104166666666666,"[[ 58 134]
+ [101 187]]"
+s21.dat,Dominance,RandomForest,0.50625,"[[ 60 132]
+ [105 183]]"
+s21.dat,Liking,Linear_SVM,0.55625,"[[ 24 156]
+ [ 57 243]]"
+s21.dat,Liking,RBF_SVM,0.5875,"[[ 18 162]
+ [ 36 264]]"
+s21.dat,Liking,RandomForest,0.5041666666666667,"[[ 25 155]
+ [ 83 217]]"
+s22.dat,Valence,Linear_SVM,0.6229166666666667,"[[159  81]
+ [100 140]]"
+s22.dat,Valence,RBF_SVM,0.5979166666666667,"[[164  76]
+ [117 123]]"
+s22.dat,Valence,RandomForest,0.5479166666666667,"[[137 103]
+ [114 126]]"
+s22.dat,Arousal,Linear_SVM,0.6458333333333334,"[[ 43 137]
+ [ 33 267]]"
+s22.dat,Arousal,RBF_SVM,0.6333333333333333,"[[ 39 141]
+ [ 35 265]]"
+s22.dat,Arousal,RandomForest,0.6083333333333333,"[[ 66 114]
+ [ 74 226]]"
+s22.dat,Dominance,Linear_SVM,0.6770833333333334,"[[ 79 101]
+ [ 54 246]]"
+s22.dat,Dominance,RBF_SVM,0.6833333333333333,"[[ 69 111]
+ [ 41 259]]"
+s22.dat,Dominance,RandomForest,0.65,"[[ 81  99]
+ [ 69 231]]"
+s22.dat,Liking,Linear_SVM,0.6395833333333333,"[[ 33 135]
+ [ 38 274]]"
+s22.dat,Liking,RBF_SVM,0.6604166666666667,"[[  7 161]
+ [  2 310]]"
+s22.dat,Liking,RandomForest,0.6354166666666666,"[[ 55 113]
+ [ 62 250]]"
+s23.dat,Valence,Linear_SVM,0.7270833333333333,"[[ 51 105]
+ [ 26 298]]"
+s23.dat,Valence,RBF_SVM,0.7395833333333334,"[[ 45 111]
+ [ 14 310]]"
+s23.dat,Valence,RandomForest,0.74375,"[[ 62  94]
+ [ 29 295]]"
+s23.dat,Arousal,Linear_SVM,0.7,"[[284  40]
+ [104  52]]"
+s23.dat,Arousal,RBF_SVM,0.75,"[[310  14]
+ [106  50]]"
+s23.dat,Arousal,RandomForest,0.74375,"[[286  38]
+ [ 85  71]]"
+s23.dat,Dominance,Linear_SVM,0.7625,"[[ 17  91]
+ [ 23 349]]"
+s23.dat,Dominance,RBF_SVM,0.7854166666666667,"[[  5 103]
+ [  0 372]]"
+s23.dat,Dominance,RandomForest,0.8,"[[ 25  83]
+ [ 13 359]]"
+s23.dat,Liking,Linear_SVM,0.6625,"[[120 108]
+ [ 54 198]]"
+s23.dat,Liking,RBF_SVM,0.6604166666666667,"[[103 125]
+ [ 38 214]]"
+s23.dat,Liking,RandomForest,0.675,"[[140  88]
+ [ 68 184]]"
+s24.dat,Valence,Linear_SVM,0.5020833333333333,"[[138 114]
+ [125 103]]"
+s24.dat,Valence,RBF_SVM,0.47291666666666665,"[[140 112]
+ [141  87]]"
+s24.dat,Valence,RandomForest,0.5,"[[143 109]
+ [131  97]]"
+s24.dat,Arousal,Linear_SVM,0.8229166666666666,"[[  0  84]
+ [  1 395]]"
+s24.dat,Arousal,RBF_SVM,0.825,"[[  0  84]
+ [  0 396]]"
+s24.dat,Arousal,RandomForest,0.8104166666666667,"[[  2  82]
+ [  9 387]]"
+s24.dat,Dominance,Linear_SVM,0.5583333333333333,"[[ 85 119]
+ [ 93 183]]"
+s24.dat,Dominance,RBF_SVM,0.5270833333333333,"[[ 55 149]
+ [ 78 198]]"
+s24.dat,Dominance,RandomForest,0.5145833333333333,"[[ 57 147]
+ [ 86 190]]"
+s24.dat,Liking,Linear_SVM,0.5208333333333334,"[[ 99 117]
+ [113 151]]"
+s24.dat,Liking,RBF_SVM,0.49166666666666664,"[[ 86 130]
+ [114 150]]"
+s24.dat,Liking,RandomForest,0.5083333333333333,"[[ 80 136]
+ [100 164]]"
+s25.dat,Valence,Linear_SVM,0.55625,"[[120 108]
+ [105 147]]"
+s25.dat,Valence,RBF_SVM,0.56875,"[[113 115]
+ [ 92 160]]"
+s25.dat,Valence,RandomForest,0.525,"[[114 114]
+ [114 138]]"
+s25.dat,Arousal,Linear_SVM,0.7229166666666667,"[[  1 119]
+ [ 14 346]]"
+s25.dat,Arousal,RBF_SVM,0.7229166666666667,"[[  0 120]
+ [ 13 347]]"
+s25.dat,Arousal,RandomForest,0.675,"[[  7 113]
+ [ 43 317]]"
+s25.dat,Dominance,Linear_SVM,0.9291666666666667,"[[  4  32]
+ [  2 442]]"
+s25.dat,Dominance,RBF_SVM,0.9270833333333334,"[[  1  35]
+ [  0 444]]"
+s25.dat,Dominance,RandomForest,0.9270833333333334,"[[  4  32]
+ [  3 441]]"
+s25.dat,Liking,Linear_SVM,0.5958333333333333,"[[ 43 137]
+ [ 57 243]]"
+s25.dat,Liking,RBF_SVM,0.5854166666666667,"[[ 19 161]
+ [ 38 262]]"
+s25.dat,Liking,RandomForest,0.51875,"[[ 37 143]
+ [ 88 212]]"
+s26.dat,Valence,Linear_SVM,0.5854166666666667,"[[  4 164]
+ [ 35 277]]"
+s26.dat,Valence,RBF_SVM,0.6104166666666667,"[[  0 168]
+ [ 19 293]]"
+s26.dat,Valence,RandomForest,0.5645833333333333,"[[ 38 130]
+ [ 79 233]]"
+s26.dat,Arousal,Linear_SVM,0.5729166666666666,"[[229  47]
+ [158  46]]"
+s26.dat,Arousal,RBF_SVM,0.5416666666666666,"[[233  43]
+ [177  27]]"
+s26.dat,Arousal,RandomForest,0.6020833333333333,"[[198  78]
+ [113  91]]"
+s26.dat,Dominance,Linear_SVM,0.5645833333333333,"[[ 12 168]
+ [ 41 259]]"
+s26.dat,Dominance,RBF_SVM,0.5979166666666667,"[[  3 177]
+ [ 16 284]]"
+s26.dat,Dominance,RandomForest,0.5333333333333333,"[[ 40 140]
+ [ 84 216]]"
+s26.dat,Liking,Linear_SVM,0.7708333333333334,"[[  0 108]
+ [  2 370]]"
+s26.dat,Liking,RBF_SVM,0.775,"[[  0 108]
+ [  0 372]]"
+s26.dat,Liking,RandomForest,0.69375,"[[  9  99]
+ [ 48 324]]"
+s27.dat,Valence,Linear_SVM,0.6875,"[[  3 117]
+ [ 33 327]]"
+s27.dat,Valence,RBF_SVM,0.7208333333333333,"[[  1 119]
+ [ 15 345]]"
+s27.dat,Valence,RandomForest,0.7020833333333333,"[[ 16 104]
+ [ 39 321]]"
+s27.dat,Arousal,Linear_SVM,0.6645833333333333,"[[ 34 122]
+ [ 39 285]]"
+s27.dat,Arousal,RBF_SVM,0.6916666666666667,"[[ 12 144]
+ [  4 320]]"
+s27.dat,Arousal,RandomForest,0.7208333333333333,"[[ 58  98]
+ [ 36 288]]"
+s27.dat,Liking,Linear_SVM,0.8479166666666667,"[[  0  72]
+ [  1 407]]"
+s27.dat,Liking,RBF_SVM,0.85,"[[  0  72]
+ [  0 408]]"
+s27.dat,Liking,RandomForest,0.8625,"[[ 11  61]
+ [  5 403]]"
+s28.dat,Valence,Linear_SVM,0.6395833333333333,"[[100  80]
+ [ 93 207]]"
+s28.dat,Valence,RBF_SVM,0.6375,"[[ 81  99]
+ [ 75 225]]"
+s28.dat,Valence,RandomForest,0.625,"[[ 73 107]
+ [ 73 227]]"
+s28.dat,Arousal,Linear_SVM,0.4375,"[[123 117]
+ [153  87]]"
+s28.dat,Arousal,RBF_SVM,0.5041666666666667,"[[119 121]
+ [117 123]]"
+s28.dat,Arousal,RandomForest,0.44583333333333336,"[[112 128]
+ [138 102]]"
+s28.dat,Dominance,Linear_SVM,0.6583333333333333,"[[  0 144]
+ [ 20 316]]"
+s28.dat,Dominance,RBF_SVM,0.6791666666666667,"[[  0 144]
+ [ 10 326]]"
+s28.dat,Dominance,RandomForest,0.6520833333333333,"[[ 22 122]
+ [ 45 291]]"
+s28.dat,Liking,Linear_SVM,0.5020833333333333,"[[ 41 139]
+ [100 200]]"
+s28.dat,Liking,RBF_SVM,0.5833333333333334,"[[ 16 164]
+ [ 36 264]]"
+s28.dat,Liking,RandomForest,0.5458333333333333,"[[ 35 145]
+ [ 73 227]]"
+s29.dat,Valence,Linear_SVM,0.6145833333333334,"[[103 101]
+ [ 84 192]]"
+s29.dat,Valence,RBF_SVM,0.6104166666666667,"[[ 81 123]
+ [ 64 212]]"
+s29.dat,Valence,RandomForest,0.625,"[[101 103]
+ [ 77 199]]"
+s29.dat,Arousal,Linear_SVM,0.6770833333333334,"[[ 49 107]
+ [ 48 276]]"
+s29.dat,Arousal,RBF_SVM,0.6979166666666666,"[[ 35 121]
+ [ 24 300]]"
+s29.dat,Arousal,RandomForest,0.6979166666666666,"[[ 56 100]
+ [ 45 279]]"
+s29.dat,Dominance,Linear_SVM,0.65625,"[[104  88]
+ [ 77 211]]"
+s29.dat,Dominance,RBF_SVM,0.65,"[[ 72 120]
+ [ 48 240]]"
+s29.dat,Dominance,RandomForest,0.6625,"[[ 96  96]
+ [ 66 222]]"
+s29.dat,Liking,Linear_SVM,0.475,"[[ 73 131]
+ [121 155]]"
+s29.dat,Liking,RBF_SVM,0.5083333333333333,"[[ 49 155]
+ [ 81 195]]"
+s29.dat,Liking,RandomForest,0.5166666666666667,"[[ 77 127]
+ [105 171]]"
+s30.dat,Valence,Linear_SVM,0.6083333333333333,"[[ 10 146]
+ [ 42 282]]"
+s30.dat,Valence,RBF_SVM,0.65625,"[[  2 154]
+ [ 11 313]]"
+s30.dat,Valence,RandomForest,0.6666666666666666,"[[ 31 125]
+ [ 35 289]]"
+s30.dat,Arousal,Linear_SVM,0.5333333333333333,"[[135 105]
+ [119 121]]"
+s30.dat,Arousal,RBF_SVM,0.5,"[[114 126]
+ [114 126]]"
+s30.dat,Arousal,RandomForest,0.6083333333333333,"[[148  92]
+ [ 96 144]]"
+s30.dat,Dominance,Linear_SVM,0.6354166666666666,"[[ 11 145]
+ [ 30 294]]"
+s30.dat,Dominance,RBF_SVM,0.6708333333333333,"[[  0 156]
+ [  2 322]]"
+s30.dat,Dominance,RandomForest,0.6604166666666667,"[[ 30 126]
+ [ 37 287]]"
+s30.dat,Liking,Linear_SVM,0.5166666666666667,"[[115 113]
+ [119 133]]"
+s30.dat,Liking,RBF_SVM,0.4875,"[[ 90 138]
+ [108 144]]"
+s30.dat,Liking,RandomForest,0.58125,"[[133  95]
+ [106 146]]"
+s31.dat,Valence,Linear_SVM,0.6208333333333333,"[[ 49 119]
+ [ 63 249]]"
+s31.dat,Valence,RBF_SVM,0.6666666666666666,"[[ 26 142]
+ [ 18 294]]"
+s31.dat,Valence,RandomForest,0.6729166666666667,"[[ 57 111]
+ [ 46 266]]"
+s31.dat,Arousal,Linear_SVM,0.63125,"[[148  92]
+ [ 85 155]]"
+s31.dat,Arousal,RBF_SVM,0.60625,"[[139 101]
+ [ 88 152]]"
+s31.dat,Arousal,RandomForest,0.6,"[[127 113]
+ [ 79 161]]"
+s31.dat,Dominance,Linear_SVM,0.63125,"[[ 87 105]
+ [ 72 216]]"
+s31.dat,Dominance,RBF_SVM,0.5833333333333334,"[[ 53 139]
+ [ 61 227]]"
+s31.dat,Dominance,RandomForest,0.5604166666666667,"[[ 61 131]
+ [ 80 208]]"
+s31.dat,Liking,Linear_SVM,0.69375,"[[ 30 102]
+ [ 45 303]]"
+s31.dat,Liking,RBF_SVM,0.7125,"[[  7 125]
+ [ 13 335]]"
+s31.dat,Liking,RandomForest,0.7291666666666666,"[[ 40  92]
+ [ 38 310]]"
+s32.dat,Valence,Linear_SVM,0.47708333333333336,"[[123 117]
+ [134 106]]"
+s32.dat,Valence,RBF_SVM,0.46875,"[[130 110]
+ [145  95]]"
+s32.dat,Valence,RandomForest,0.5270833333333333,"[[129 111]
+ [116 124]]"
+s32.dat,Arousal,Linear_SVM,0.6416666666666667,"[[ 34 110]
+ [ 62 274]]"
+s32.dat,Arousal,RBF_SVM,0.65,"[[ 30 114]
+ [ 54 282]]"
+s32.dat,Arousal,RandomForest,0.64375,"[[ 44 100]
+ [ 71 265]]"
+s32.dat,Dominance,Linear_SVM,0.88125,"[[  5  31]
+ [ 26 418]]"
+s32.dat,Dominance,RBF_SVM,0.91875,"[[  3  33]
+ [  6 438]]"
+s32.dat,Dominance,RandomForest,0.9,"[[  3  33]
+ [ 15 429]]"
+s32.dat,Liking,Linear_SVM,0.54375,"[[108 132]
+ [ 87 153]]"
+s32.dat,Liking,RBF_SVM,0.51875,"[[100 140]
+ [ 91 149]]"
+s32.dat,Liking,RandomForest,0.5083333333333333,"[[106 134]
+ [102 138]]"
